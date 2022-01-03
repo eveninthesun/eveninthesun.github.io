@@ -34,7 +34,6 @@ permalink: /about/
   - database design
 - UI/UX
   - UML Design
-  - 
 - AI
   - Kafka streamming
   - hdfs streamming
@@ -42,7 +41,7 @@ permalink: /about/
   - Project Manager
   - Project Leader
   - Project Engineer
-  - Agile / WaterFall SI(System Integration) developer
+  - Agile / Waterfall SI(System Integration) developer
 - Communication Skill
 
 [*resume*] <https://sites.google.com/d/1SolGi6f_MXd8DZRYgU_f7WllSAWHJfxJ/p/1ovxnTnOp5gm4kohcVIzEruAzT_I3ECEm/edit>  
